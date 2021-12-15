@@ -18,7 +18,7 @@ const Search = ({dataSearch}) => {
             ref={searchRef}
             type="text"
             className="form-control form-control-lg"
-            placeholder="Busca tu imágen.   Ej: Perros"
+            placeholder="Busca tu imágen. Ej: Perros"
           />
         </div>
         <div className="form-group col-md-2">
